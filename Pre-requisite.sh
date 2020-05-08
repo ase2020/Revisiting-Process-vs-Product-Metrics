@@ -1,0 +1,5 @@
+python Random_Forest_cross.py
+python Random_Forest_release.py
+python Logistic_Regression_cross.py
+python Naive_Bayes_cross.py
+python Support_Vector_MAchine_cross.py
