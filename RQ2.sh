@@ -1,1 +1,0 @@
-python Generate_RQ2.py
